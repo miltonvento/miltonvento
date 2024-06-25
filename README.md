@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="250" align="center" src="https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" />
 </a>
+
+[![Milton's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miltonvento)](https://github.com/miltonvento/github-readme-stats)
