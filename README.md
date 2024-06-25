@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img height="300" align="center" src="https://github-readme-stats-iota-jade-55.vercel.app/api/top-langs/?username=miltonvento&size_weight=0.5&count_weight=0.5&layout=donut-vertical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="300" align="right" src="https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" />
+  <img height="300" align="center" src="https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" />
 </a>
