@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 1; min-width: 300px; margin-right: 10px;">
-    <img src="https://github-readme-stats-iota-jade-55.vercel.app/api/top-langs/?username=miltonvento&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Langs"/>
+    <img src="https://github-readme-stats-iota-jade-55.vercel.app/api/top-langs/?username=miltonvento&size_weight=0.5&count_weight=0.5&layout=donut-vertical" alt="Top Langs"/>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <a href="https://github.com/miltonvento/github-readme-stats">
