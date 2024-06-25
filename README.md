@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-iota-jade-55.vercel.app/api/top-langs/?username=miltonvento&size_weight=0.5&count_weight=0.5)
 
-[![Milton's GitHub stats](https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/miltonvento/github-readme-stats)
+[![Milton's GitHub stats](https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento&show_icons=true&theme=dark&hide=stars,issues&include_all_commits=true&hide_rank=true)](https://github.com/miltonvento/github-readme-stats)
