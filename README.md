@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div style="display: inline-block; width: 45%; padding: 10px; margin-right: 5%; border: 1px solid #ddd; border-radius: 5px;">
 
   ![Top Langs](https://github-readme-stats-iota-jade-55.vercel.app/api/top-langs/?username=miltonvento&size_weight=0.5&count_weight=0.5)
 
