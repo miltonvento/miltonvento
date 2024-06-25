@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento)](https://github.com/miltonvento/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-iota-jade-55.vercel.app/api?username=miltonvento&show_icons=true&theme=radical)](https://github.com/miltonvento/github-readme-stats)
