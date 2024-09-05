@@ -1,11 +1,11 @@
-## Hi there. I'm Milton Vento, a Computer Science student graduating in June 2026. Welcome to my profile! 👋
+
+# I'm Milton Vento, a Computer Science student graduating in June 2026. 
 
 <!--
 **miltonvento/miltonvento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 
-<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
 
-- 🔭 My top languages are:
+🔭 My top languages are:
 - React/TypeScript
 - JavaScript
 - Python
