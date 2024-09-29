@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 My top languages are:
+🔭 My top programming languages and frameworks are:
 - React/TypeScript
 - JavaScript
 - Python
